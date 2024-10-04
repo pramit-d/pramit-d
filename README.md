@@ -13,28 +13,13 @@ I'm Pramit, a driven Full Stack DevOps Engineer with a passion for creating inno
 
 ---
 
-### 🚀 **Projects and Contributions**
+### 🌟 **Notable Contributions**
 
-#### **1. [BeS-dev-kit](https://github.com/Be-Secure/BeS-dev-kit)**
-Toolkit project for the BeSecure community, accelerating contributions with tools and utilities.  
-**Role:** Primary Maintainer  
-- Designed, analyzed, and developed key features.
-- Handled bug fixes, releases, and documentation.
+[@Be-Secure](https://github.com/be-secure)  
+[@PSMRI](https://github.com/PSMRI)
 
-#### **2. [BeSLighthouse](https://github.com/Be-Secure/BeSLighthouse)**
-Community dashboard for security assessment of open-source projects.  
-- Developed the dependency graph view using D3.js.
-- Fixed critical bugs and enhanced multiple features for improved project insights.
 
-#### **3. [oah-bes-vm](https://github.com/Be-Secure/oah-bes-vm)**
-Substrate for provisioning bundles of BeS & other tools for Red Teaming and Blue Teaming activities.  
-- Simplified environment setup for BeSecure tools, improving assessment efficiency.
 
-#### **4. [BeSman](https://github.com/Be-Secure/BeSman)**
-Command-line utility for creating and provisioning customized security environments.  
-- Enabled security professionals to reduce setup time, allowing more focus on assessments.
-
-**Check out the BeSLighthouse website**: [BeSLighthouse](https://be-secure.github.io/BeSLighthouse/)
 
 ---
 
