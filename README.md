@@ -1,6 +1,6 @@
 # DevOps Explorer 🚀 | Automation Enthusiast ⚡ | Open Source Contributor
 
-🌟 **Hello, World!** 🌟
+🌟 **Hello, World!** 🌟  
 I'm Pramit, a driven Full Stack DevOps Engineer with a passion for creating innovative and reliable solutions. Whether it's developing microservice APIs, automating workflows, or enhancing security through AI, I thrive on solving complex problems and contributing to open-source projects. I'm always looking for new ways to collaborate and innovate, helping the community grow.
 
 ---
@@ -38,9 +38,7 @@ Command-line utility for creating and provisioning customized security environme
 
 ---
 
-### 📈 **GitHub Stats**
-
-![Pramit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramit-d&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=pramit-d&show_icons=true&theme=dark&bg_color=2A2A2A&border_radius=10) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramit-d&theme=dark&bg_color=2A2A2A&border_radius=10&layout=compact)
 
 ---
 
